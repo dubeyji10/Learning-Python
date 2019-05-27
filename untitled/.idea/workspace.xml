@@ -112,7 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="46" />
+    <option name="x" value="575" />
+    <option name="y" value="34" />
     <option name="width" value="1017" />
     <option name="height" value="973" />
   </component>
@@ -146,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558422990076" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558960656753" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -166,7 +167,7 @@
   </component>
   <component name="RunManager" selected="Python.Challenge">
     <configuration name="Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day5" />
+      <module name="PythonDay5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -187,7 +188,7 @@
       <method v="2" />
     </configuration>
     <configuration name="lists4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day5" />
+      <module name="PythonDay5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -208,7 +209,7 @@
       <method v="2" />
     </configuration>
     <configuration name="lists5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day5" />
+      <module name="PythonDay5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,7 +230,7 @@
       <method v="2" />
     </configuration>
     <configuration name="lists6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day5" />
+      <module name="PythonDay5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,7 +251,7 @@
       <method v="2" />
     </configuration>
     <configuration name="lists7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Day5" />
+      <module name="PythonDay5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
